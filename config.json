@@ -1,0 +1,16 @@
+{
+	"name": "",
+	"author": "",
+	"version": "0.1",
+	"date": "",
+	"licence": "",
+	"cfg": {
+		"defaultAction": {
+			"type": "string",
+			"default": "index"
+		}
+	},
+	"events": [
+
+	]
+}
